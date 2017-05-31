@@ -1,5 +1,5 @@
 # Experiment Result
-
+<img src="https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_convpyr.png" width="200">
 ![](https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_convpyr.png =250x)
 ![](https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_ours.png =300x)<br>
 This supplemental document provides blending results for this paper entitled 'Avoiding bleeding in image
