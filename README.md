@@ -6,8 +6,8 @@ result of our proposed method.The directory 'Videos' consists  of blended videos
 the result of  convolution pyramid blending and our proposed method.
 # Experiment Result
 <p align="center">
-  <img src="https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_convpyr.png" width="450">
-  <img src="https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_ours.png" width="450"><br>
+  <img src="https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_convpyr.png" width="420">
+  <img src="https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_ours.png" width="420"><br>
   <a>left:convpyr blending result right: our result</a>
 </p> 
 
