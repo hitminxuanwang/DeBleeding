@@ -1,4 +1,5 @@
-#Experiment Result
+# Experiment Result
+
 ![image](https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_convpyr.png)
 ![image](https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_ours.png)<br>
 This supplemental document provides blending results for this paper entitled 'Avoiding bleeding in image
