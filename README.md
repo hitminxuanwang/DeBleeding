@@ -1,7 +1,7 @@
 # Experiment Result
 
-![image](https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_convpyr.png)
-![image](https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_ours.png)<br>
+![image](https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_convpyr.png =300x)
+![image](https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_ours.png =300x)<br>
 This supplemental document provides blending results for this paper entitled 'Avoiding bleeding in image
 blending'. This supplemental material consists three parts including the MATLAB version of the source code,
 several image results and several video results. The MATLAB code  is tested on MATLAB 2014a. The directory 
