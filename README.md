@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_convpyr.png" width="400">
   <img src="https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_ours.png" width="400"><br>
+  <a>left:convpyr blending result right: our result</a>
 </p>
-<img src="https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_convpyr.png" width="400">
-<img src="https://github.com/hitminxuanwang/DeBleeding/blob/master/Images/flower/blended_ours.png" width="400"><br>
+# 
 This supplemental document provides blending results for this paper entitled 'Avoiding bleeding in image
 blending'. This supplemental material consists three parts including the MATLAB version of the source code,
 several image results and several video results. The MATLAB code  is tested on MATLAB 2014a. The directory 
